@@ -4,7 +4,7 @@ Voici le résultat de mon projet développé avec la librarie pygame
 
 Un écran de chargement
 Des messages pendant le chargement
-
+![Capture2](https://github.com/nino-homard/pong-nino-richard/assets/146345404/6fb7a2a5-6180-4377-85fe-6c1ec977bed7)
 De l'aléatoire dans la trajectoire de la balle quand elle tape un mur
 De l'aléatoire dans la vitesse de la balle quand elle tape un mur
 La raquette qui diminue de taille par rapport au score
